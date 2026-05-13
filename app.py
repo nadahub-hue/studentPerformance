@@ -1,8 +1,10 @@
+pip install streamlit pandas sckit-learn
 import streamlit as st
 import pandas as pd
 import numpy as np
 from pathlib import Path
 
+from sklearn.model_selection import train_test_split
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.pipeline import Pipeline
