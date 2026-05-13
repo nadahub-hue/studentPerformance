@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
-from sklearn.model_selection import train_test_split
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.pipeline import Pipeline
@@ -21,8 +20,7 @@ st.write("This UI predicts a student's exam score based on lifestyle and study h
 
 DATA_FILES = [
     "UTAS_students_performance.csv",
-    "student_habits_performance(1).csv",
-    "student_habits_performance.csv"
+    "student_habits_performance(1).csv"
 ]
 
 @st.cache_data
