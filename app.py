@@ -1,4 +1,4 @@
-pip install streamlit pandas sckit-learn
+pip streamlit pandas sckit-learn
 import streamlit as st
 import pandas as pd
 import numpy as np
