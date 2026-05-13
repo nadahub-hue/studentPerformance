@@ -1,0 +1,21 @@
+age,gender,study_hours_per_day,social_media_hours,netflix_hours,part_time_job,attendance_percentage,sleep_hours,diet_quality,exercise_frequency,parental_education_level,internet_quality,mental_health_rating,extracurricular_participation,exam_score
+27,Female,2,24,1,Yes,27,5,Good,3,Bachelor,Good,7,Yes,10
+24,Female,5,3,0,No,90,9,Good,4,Bachelor,Good,7,Yes,93
+25,Female,7,4,2,Yes,89,6,Poor,6,Bachelor,Poor,6,No,69
+22,Male,2,7,3,Yes,40,3,Good,5,Bachelor,Avergae,5,No,60
+26,Male,6,3,5,Yes,75,3,Poor,4,Master,Avergae,7,Yes,67
+28,Female,8,2,2,No,100,5,Good,5,Bachelor,Poor,3,Yes,90
+21,Female,6,3,6,Yes,56,3,Good,4,Bachelor,Poor,2,No,56
+29,Male,3,10,7,No,50,8,Poor,5,Bachelor,Good,5,No,53
+23,Female,6,3,3,No,78,5,Fair,0,Master,Avergae,1,No,89
+23,Male,4,7,6,No,65,6,Fair,0,High School,Poor,6,No,56
+24,Female,3,6,1,No,6,12,Good,5,High School,Avergae,8,No,77
+22,Male,2,10,2,Yes,10,10,Good,7,High School,Good,9,Yes,75
+20,Female,2,12,2,Yes,15,8,Good,0,Bachelor,Good,10,Yes,70
+21,Female,4,2,2,No,8,12,Fair,4,High School,Good,4,Yes,80
+23,Male,1,4,2,Yes,12,12,Good,7,Bachelor,Good,2,Yes,88
+25,Female,2,3,2,Yes,16,12,Fair,3,High School,Avergae,7,Yes,70
+21,Male,5,1,2,No,68,3,Good,6,Bachelor,Avergae,5,Yes,89
+24,Female,12,3,0,Yes,95,2,Good,0,None,Avergae,5,No,100
+25,Female,15,3,0,No,98,4,Good,3,High School,Avergae,3,Yes,98
+22,Female,4,5,3,Yes,65,8,Fair,0,High School,Good,2,No,67
